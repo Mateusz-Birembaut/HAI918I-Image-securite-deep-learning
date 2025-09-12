@@ -26,8 +26,8 @@ int main(){
 	*/
 	// substitution_inv("../iSubstitution.pgm", "../iSubstitution_inv.pgm", 'z'); 
 
-	substitution("../cat.pgm", "../chiffre.pgm", 218);
-	brut_force_substitution("../chiffre.pgm", "../i_bruteForce.pgm");
+	//substitution("../cat.pgm", "../chiffre.pgm", 218);
+	//brut_force_substitution("../chiffre.pgm", "../i_bruteForce.pgm");
 
 	return EXIT_SUCCESS;
 }
