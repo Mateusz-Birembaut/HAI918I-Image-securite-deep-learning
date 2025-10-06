@@ -6,9 +6,7 @@
 int main(){
 
     //extractBinaryPlans("catOFB.pgm");
-/* 
-
-    char nameBuffer[300];
+    /*  char nameBuffer[300];
     char* names[8];
 
     for (int i = 0; i < 8; ++i) {
