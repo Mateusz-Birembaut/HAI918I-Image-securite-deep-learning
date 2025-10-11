@@ -79,6 +79,10 @@
         "__string": "cpp",
         "__tree": "cpp",
         "strstream": "cpp",
-        "future": "cpp"
+        "future": "cpp",
+        "charconv": "cpp",
+        "expected": "cpp",
+        "format": "cpp",
+        "span": "cpp"
     }
 }
